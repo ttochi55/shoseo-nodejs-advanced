@@ -1,0 +1,11 @@
+{
+  "world": {
+    "host": "localhost",
+    "user": "hsuser",
+    "password": "hspass",
+    "database": "world",
+    "port": 3306,
+    "connectionLimit": 10,
+    "multipleStatements": true
+  }
+}

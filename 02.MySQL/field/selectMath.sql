@@ -1,0 +1,9 @@
+SELECT
+	COUNT(*),
+	MIN(population),
+	MAX(population),
+	SUM(population),
+	AVG(population),
+	ROUND(AVG(population))
+FROM
+	city;
